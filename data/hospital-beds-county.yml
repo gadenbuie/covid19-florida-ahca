@@ -1,0 +1,19 @@
+..generic:
+  git2rdata: 0.2.2
+  optimize: yes
+  NA string: NA
+  sorting:
+  - county
+  - measure_names
+  hash: 748f14a463e22c8aa22bb788dc54574377dd738a
+  data_hash: 60ed38366418cdf78f999b55a61c4aa3b4903331
+timestamp:
+  class: POSIXct
+  origin: 1970-01-01 00:00:00
+  timezone: UTC
+county:
+  class: character
+measure_names:
+  class: character
+measure_values:
+  class: numeric

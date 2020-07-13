@@ -1,0 +1,15 @@
+..generic:
+  git2rdata: 0.2.2
+  optimize: yes
+  NA string: NA
+  sorting: county
+  hash: 7a601ab7050e808aa6993b37f065d864b4ebe9b2
+  data_hash: 5a19f31128820d21132a2c06d4a7b820f71bbed2
+timestamp:
+  class: POSIXct
+  origin: 1970-01-01 00:00:00
+  timezone: UTC
+county:
+  class: character
+covid_hospitalizations:
+  class: numeric
