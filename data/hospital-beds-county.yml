@@ -1,12 +1,12 @@
 ..generic:
-  git2rdata: 0.2.2
+  git2rdata: 0.2.1
   optimize: yes
   NA string: NA
   sorting:
   - county
   - measure_names
   hash: 748f14a463e22c8aa22bb788dc54574377dd738a
-  data_hash: a7a0589627d0c072ec69f6444e214696072f07e0
+  data_hash: 08af092286e350a8b1a45111ece4d279c8b1d83e
 timestamp:
   class: POSIXct
   origin: 1970-01-01 00:00:00

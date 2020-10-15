@@ -1,5 +1,5 @@
 ..generic:
-  git2rdata: 0.2.2
+  git2rdata: 0.2.1
   optimize: yes
   NA string: NA
   sorting:
@@ -7,7 +7,7 @@
   - file_number
   - measure_names
   hash: eaf4752c89914a09ace9567a51c945161715564c
-  data_hash: fdf5578cb070fdbbe58151d05b2e7214fcf61c2b
+  data_hash: bd6410b3fd54e3ecf0e0c05a23e6283699fef41e
 timestamp:
   class: POSIXct
   origin: 1970-01-01 00:00:00
