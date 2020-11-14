@@ -6,8 +6,8 @@
   - county
   - file_number
   - measure_names
-  hash: eaf4752c89914a09ace9567a51c945161715564c
-  data_hash: c53024f3b8a5ef940cc4ec785aebefbb2dbc1d64
+  hash: 61e687e21453ff547a2943947399cbbccc40c1d8
+  data_hash: d1004c2d0eb1dd1780a0a0647616d32b229d389a
 timestamp:
   class: POSIXct
   origin: 1970-01-01 00:00:00
@@ -15,7 +15,7 @@ timestamp:
 county:
   class: character
 file_number:
-  class: character
+  class: numeric
 measure_names:
   class: character
 provider_name:
